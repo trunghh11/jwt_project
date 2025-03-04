@@ -1,8 +1,1 @@
 = README
-
-image::
-image::https://github.com/trunghh11/gs-securing-web/blob/main/images/user.png[User]
-
-== 2. Hỗ trợ các vai trò USER, ADMIN. Vai trò ADMIN đc vào đường dẫn /admin
-ảnh minh chứng:
-image::https://github.com/trunghh11/gs-securing-web/blob/main/images/admin_page.png[Admin Page]
