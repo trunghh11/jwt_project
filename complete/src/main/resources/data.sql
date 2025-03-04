@@ -1,4 +1,3 @@
-
 INSERT INTO users (username, password, enabled) VALUES ('user', '{noop}password', true);
 INSERT INTO users (username, password, enabled) VALUES ('admin', '{noop}admin', true);
 
